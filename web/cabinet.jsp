@@ -17,6 +17,7 @@
 <body>
 <jsp:include page="/static/header.jsp"></jsp:include>
 <my:newButton/>
+<my:changeTitle/>
 <h1>Личный кабинет</h1>
 <my:layout1Column>
     <ad:getAds var="adListing" sort="${sessionScope.sort}"
