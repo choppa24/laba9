@@ -15,7 +15,7 @@
 		align="left">
 	<div
 		style="font-family: 'Times New Roman' ; font-size: 30px; height: 53px; margin-left: 80px;">
-		Доска объявлений "Минздрав" </div>
+		Доска объявлений) </div>
 </div>
 </a>
 <%-- Панель отображается если пользователь аутентифицирован --%>

@@ -13,6 +13,7 @@ public class Login extends SimpleTagSupport {
     private String login;
     private String password;
 
+
     public void setLogin(String login) {
         this.login = login;
     }

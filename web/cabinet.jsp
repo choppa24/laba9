@@ -15,6 +15,7 @@
     <meta http-equiv="Last-Modified" content="Fri, Jan 25 2099 23:59:59 GMT">
 </head>
 <body>
+
 <jsp:include page="/static/header.jsp"></jsp:include>
 <my:newButton/>
 <my:changeTitle/>
